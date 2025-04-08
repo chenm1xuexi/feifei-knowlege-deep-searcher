@@ -1,0 +1,11 @@
+[project]
+name = "feifei-knowlege-deep-searcher"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chainlit>=2.4.400",
+    "langchain>=0.3.23",
+    "langchain-community>=0.3.21",
+]
